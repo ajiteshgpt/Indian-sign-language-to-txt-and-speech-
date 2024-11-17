@@ -257,3 +257,11 @@ footer {
         transform: translateY(0);
     }
 }
+.feedback{
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    margin-left: 40%;
+    gap: 10px;
+    margin-top: 26px;
+}
