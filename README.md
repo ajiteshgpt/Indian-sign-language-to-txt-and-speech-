@@ -1,4 +1,4 @@
-✋ Sign Language Recognition to Speech
+✋ Indian Sign Language Recognition to Speech
 
 A real-time sign language recognition system that converts hand gestures into text and speech.
 This project uses computer vision and machine learning to help bridge the communication gap between sign language users and those who don’t understand sign language.
@@ -24,6 +24,7 @@ Imagine having a translator that can watch your hand movements and instantly con
 This project demonstrates how AI-powered assistive technology can support deaf and hard-of-hearing communities, while also being an educational tool for learning computer vision and sign language.
 
 
+---
 
 💡 Why This Project Matters
 
@@ -41,6 +42,7 @@ Provides a hands-on learning platform for AI, HCI, and accessibility research.
 
 
 
+---
 
 🚀 How It Works
 
@@ -58,6 +60,10 @@ Think of this as teaching a computer to "see" and "understand" hand gestures:
 4. 🗣️ Speaking → Converts recognized gestures into text and speaks aloud.
 
 
+
+
+---
+
 📂 Project Structure
 
 sign-language-recognition/
@@ -70,6 +76,8 @@ sign-language-recognition/
 │── model.p                    # Trained ML model (generated after training)
 │── data.pickle                # Processed landmark data (generated)
 
+
+---
 
 🔧 Step-by-Step Setup
 
@@ -127,6 +135,8 @@ For better accuracy, run the enhanced version:
 python 4.1Deployment-2-frame.py
 
 
+---
+
 🎮 How to Use
 
 Show gesture A, C, or T to the camera.
@@ -146,6 +156,8 @@ Use GUI buttons:
 
 
 
+---
+
 ✋ Supported Gestures
 
 Currently recognizes:
@@ -157,6 +169,8 @@ C → Hand curved like holding a cup.
 T → Fist with thumb tucked between fingers.
 
 
+
+---
 
 📊 Performance Metrics
 
@@ -172,6 +186,7 @@ T → Fist with thumb tucked between fingers.
 
 
 
+---
 
 🌍 Applications
 
@@ -191,6 +206,7 @@ This system can be used in:
 
 
 
+---
 
 🔮 Future Enhancements
 
@@ -208,6 +224,8 @@ Real-time conversational translation.
 
 
 
+---
+
 📖 Educational Value
 
 This project demonstrates:
@@ -222,6 +240,9 @@ Accessibility Technology → Practical assistive tools for communication.
 
 Python Development → End-to-end ML + HCI project pipeline.
 
+
+
+---
 
 🤝 Contributing
 
@@ -239,6 +260,8 @@ Supporting multi-language speech synthesis.
 
 
 
+---
+
 🔐 Privacy & Security
 
 All recognition happens locally on your computer.
@@ -247,6 +270,9 @@ Works offline (except text-to-speech).
 
 No images are stored permanently unless you save them.
 
+
+
+---
 
 🎓 Learning Opportunities
 
@@ -262,6 +288,9 @@ Real-time video processing.
 
 GUI development for accessibility.
 
+
+
+---
 
 📌 Getting Started Checklist
 
@@ -281,7 +310,7 @@ GUI development for accessibility.
 
 
 
-
+---
 
 ✨ Made with ❤️ for accessibility and inclusion ✨
 
