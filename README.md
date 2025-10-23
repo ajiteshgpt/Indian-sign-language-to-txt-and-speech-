@@ -275,27 +275,3 @@ GUI development for accessibility.
 
 ---
 
-📌 Getting Started Checklist
-
-[ ] Install Python & dependencies
-
-[ ] Collect gesture dataset
-
-[ ] Extract landmarks (data.pickle)
-
-[ ] Train ML model (model.p)
-
-[ ] Run real-time translator
-
-[ ] Test with hand gestures A, C, T
-
-[ ] Enjoy AI-powered sign-to-speech translation 🎉
-
-
-
----
-
-✨ Made with ❤️ for accessibility and inclusion ✨
-
-This project is a step toward making communication easier, faster, and more inclusive for everyone.
-
