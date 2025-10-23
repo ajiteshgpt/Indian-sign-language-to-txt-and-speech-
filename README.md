@@ -139,7 +139,7 @@ python 4.1Deployment-2-frame.py
 
 🎮 How to Use
 
-Show gesture A, C, or T to the camera.
+Show gesture like A, C, or T to the camera.
 
 Recognized letter will appear in text box.
 
@@ -152,23 +152,6 @@ Use GUI buttons:
 🟪 Translate Speech – Speak in French.
 
 🟥 Exit – Close application.
-
-
-
-
----
-
-✋ Supported Gestures
-
-Currently recognizes:
-
-A → Closed fist with thumb on the side.
-
-C → Hand curved like holding a cup.
-
-T → Fist with thumb tucked between fingers.
-
-
 
 ---
 
